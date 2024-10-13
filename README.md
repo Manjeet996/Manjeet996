@@ -9,3 +9,4 @@ Aspiring Data Analyst with a passion for transforming data into actionable insig
 * 👥 Open to collaborating on data analysis and visualization projects!  
 
 Feel free to check out my repositories for projects that showcase my journey from customer service to data analysis. I’m excited to connect and collaborate with professionals in the field!
+
