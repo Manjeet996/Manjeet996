@@ -8,5 +8,11 @@ Aspiring Data Analyst with a passion for transforming data into actionable insig
 * 🚀 Currently, I'm working on expanding my knowledge in advanced analytics and machine learning.  
 * 👥 Open to collaborating on data analysis and visualization projects!  
 
+
 Feel free to check out my repositories for projects that showcase my journey from customer service to data analysis. I’m excited to connect and collaborate with professionals in the field!
 
+### 📫 Contact Me:   
+
+[![linkedin logo_icon](https://github.com/user-attachments/assets/47e4f2f9-d35a-492f-948d-8b467c6797df)](https://www.linkedin.com/in/manjeet-singh-ghuman/)             
+[![gmail_mail_logo](https://github.com/user-attachments/assets/293c0c6e-18b6-4489-a4b4-a9e4a5c52112)
+](mailto:manjeet.s.ghuman96@gmail.com)  
