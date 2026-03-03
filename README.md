@@ -1,6 +1,6 @@
 **Hi, I'm Manjeet Singh Ghuman 👋**   
   
-Aspiring Data Analyst with a passion for transforming data into actionable insights. I have 6+ years of experience in customer service roles where I developed strong problem-solving skills, attention to detail, and a customer-focused approach. Transitioning into data analytics, I've worked with Excel, Power BI, Tableau, and MySQL to create dynamic dashboards and perform data cleaning, analysis, and reporting.  
+Data Analyst with a passion for transforming data into actionable insights. I have 6+ years of experience in customer service roles where I developed strong problem-solving skills, attention to detail, and a customer-focused approach. Transitioning into data analytics, I've worked with Excel, Power BI, Tableau, and MySQL to create dynamic dashboards and perform data cleaning, analysis, and reporting.  
 
 * **🛠️ Tools:** Excel, Power BI, Tableau, MySQL  
 * **📈 Skills:** Data Visualization, Data Cleaning, Dashboard Development, Performance Metrics  
